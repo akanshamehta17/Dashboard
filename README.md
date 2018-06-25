@@ -1,5 +1,3 @@
-## Dashboard created using Angular 6, Bootstrap 4 and Firebase
-
 ![alt text](https://github.com/akanshamehta17/dashboard_angular/blob/master/Dashboard.png)
 
 # Ng6
